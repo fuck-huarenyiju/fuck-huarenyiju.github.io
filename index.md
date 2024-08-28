@@ -20,6 +20,10 @@
 
 ![北京华仁颐居信息科技有限公司-赵言](images/北京华仁颐居信息科技有限公司-赵言.png)
 
+![华仁易居信息科技有限公司](images/华人易居被执行人.jpg)
+
+![华仁易居信息科技有限公司-赵言](images/华仁易居信息科技有限公司-赵言.png)
+
 <div class="pdf-viewer">
   <embed src="images/赵言-限消令.pdf" type="application/pdf" width="100%" height="1000px">
 </div>
