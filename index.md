@@ -41,6 +41,10 @@
 
 ![华仁易居信息科技有限公司-赵言](images/华仁易居信息科技有限公司-赵言.png)
 
+![华仁易居信息科技有限公司-1](images/华仁易居信息科技有限公司-241001.png)
+
+![华仁易居信息科技有限公司-2](images/华仁易居信息科技有限公司-241002.png)
+
 
 <div class="pdf-viewer">
   <embed src="images/赵言-限消令-2310.pdf" type="application/pdf" width="100%" height="1000px">
@@ -102,6 +106,10 @@
 
 <div class="pdf-viewer">
   <embed src="images/华仁易居信息科技有限公司-限消令-2405-2.pdf" type="application/pdf" width="100%" height="1000px">
+</div>
+
+<div class="pdf-viewer">
+  <embed src="images/（2024）豫0191执7412号.pdf" type="application/pdf" width="100%" height="1000px">
 </div>
 
 
